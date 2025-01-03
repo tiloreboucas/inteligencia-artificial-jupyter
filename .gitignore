@@ -173,6 +173,8 @@ cython_debug/
 
 # submodules
 /mlrose
+mlrose
+mlrose/
 
 # data
 /orange-files
